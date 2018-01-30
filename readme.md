@@ -8,4 +8,4 @@ The JSON is currently in a flat structure but the 3rd party data source is relea
 
 2. Update the class *and tests* to support the new data structure `data_v2` but keep it backwards compatible with the old structure.
 
-When you're ready, send us a pull request
+When you're ready, send us a pull request on a separate branch with your update!
